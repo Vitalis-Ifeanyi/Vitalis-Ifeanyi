@@ -86,8 +86,8 @@ I create intuitive digital experiences that go beyond visuals—focused on usabi
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nwokolo-ifeanyi-vitalis&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwokolo-ifeanyi-vitalis&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vitalis-ifeanyi&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitalis-ifeanyi&layout=compact&theme=tokyonight" />
 </p>
 
 ---
