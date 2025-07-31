@@ -48,46 +48,84 @@ I create intuitive digital experiences that go beyond visuals—focused on usabi
 
 ## 🚀 Projects
 
-### 🛍️ [Donator Exclusive Fashion World](#)  
-> E-commerce landing page for a luxury brand  
-- Social media integration  
-- Embedded Google Maps  
-- Responsive, elegant product sections  
-**Tech:** HTML, CSS, JS, Google Maps API
+### 🛍️ Donator Exclusive Fashion World  
+*A polished e-commerce landing page for a high-end fashion brand. It showcases products with elegance, responsive layouts, and strong brand visuals.*  
+- ✓ Social media integration for real-time brand engagement  
+- ✓ Mobile-first, fully responsive layout  
+- ✓ Embedded Google Maps for in-store navigation  
+- ✓ Subtle animations for an immersive UI experience  
+- ✓ Visually appealing product sections with clean layout  
+**Tech:** HTML5, CSS3, JavaScript, Google Maps API, Font Awesome  
+🔗 [Live Demo](https://donator-excluxive-fashion-world.vercel.app/) |
 
-### 🎨 [Color Guessing Game](#)  
-> Browser game to boost RGB recognition  
-- Score tracking & difficulty levels  
-- Live feedback with transitions  
-**Tech:** HTML, CSS, Vanilla JS (ES6+)
+---
 
-### 🎫 [Event Ticket Generator](#)  
-> Dynamic multi-tier ticket generator with PDF/QR  
-- Cloudinary integration & IndexedDB persistence  
-**Tech:** React, Tailwind CSS, Cloudinary, IndexedDB
+### 🎨 Color Guessing Game  
+*An engaging browser-based game that sharpens users' RGB color recognition skills with instant feedback and difficulty levels.*  
+- ✓ RGB-based color guessing gameplay  
+- ✓ Live score tracking and instant feedback  
+- ✓ Dynamic difficulty levels (Easy / Hard modes)  
+- ✓ Responsive layout for all screen sizes  
+- ✓ JavaScript-powered visual feedback and transitions  
+**Tech:** HTML5, CSS3, JavaScript (ES6+), DOM Manipulation  
+🔗 [Live Demo](https://color-game-woad.vercel.app/) |
 
-### 📑 [AssuredBid](#)  
-> Secure platform for tender management  
-- JWT-based auth, Redux state, responsive UI  
-**Tech:** React, Tailwind CSS, Redux
+---
 
-### 🧼 [CaptainTrack](#)  
-> Marketing site for multi-service platform  
-- Landing pages, forms, and newsletter signup  
-**Tech:** React, TypeScript, Tailwind CSS
+### 🎫 Event Ticket Generator System  
+*A full-stack system for conference ticket generation with PDF download, dynamic pricing, and secure QR codes.*  
+- ✓ Multi-step form for ticket selection  
+- ✓ Tiered ticket pricing logic (Free, VIP, VVIP)  
+- ✓ Auto-generated PDF tickets with embedded QR codes  
+- ✓ Cloudinary image upload integration  
+- ✓ Persistent ticket state with IndexedDB  
+**Tech:** React.js, Tailwind CSS, Cloudinary, IndexedDB  
+🔗 [Live Demo](#) | 💻 [Code](#)
 
-### 💬 [Telex](#)  
-> Real-time collaboration app from HNG internship  
-- Messaging, AI assistant, modern UI  
-**Tech:** Next.js, Tailwind CSS
+---
+
+### 📑 AssuredBid  
+*A secure, scalable platform for creating and managing tenders. Built with a focus on clean workflows and responsive UI for real-world contract bidding.*  
+- ✓ End-to-end tender creation and management  
+- ✓ JWT-based authentication and user flows  
+- ✓ Integrated Redux for state handling  
+- ✓ Clean, responsive layouts for mobile and desktop  
+- ✓ Seamless API consumption and error handling  
+**Tech:** React.js (Hooks + Redux), Tailwind CSS  
+🔗 [Live Demo](https://managementinc.assuredbid.co.uk/) |
+
+---
+
+### 🧼 CaptainTrack  
+*A marketing website for an on-demand multi-service platform. Designed for speed, clarity, and user conversion with React + TypeScript.*  
+- ✓ Landing pages emphasizing service benefits and trust  
+- ✓ Interactive forms for user contact and newsletter signup  
+- ✓ Download links for mobile apps  
+- ✓ Mobile-first performance optimization  
+- ✓ SEO-conscious static build using React and TypeScript  
+**Tech:** React.js, TypeScript, Tailwind CSS  
+🔗 [Live Demo](https://captaintrack.ng) |
+
+---
+
+### 💬 Telex (HNG Internship)  
+*A real-time collaboration app for teams, built with Next.js during the HNG internship. Includes smart AI agents for productivity enhancements.*  
+- ✓ Real-time messaging with modern UI  
+- ✓ AI-powered assistant integration  
+- ✓ Fully responsive layouts for team workflows  
+- ✓ Internship-based agile development experience  
+- ✓ Performance-focused scalable design  
+**Tech:** Next.js, Tailwind CSS  
+🔗 [Live Demo](https://telex.im) |
+
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vitalis-ifeanyi&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitalis-ifeanyi&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vitalis-iIfeanyi&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitalis-Ifeanyi&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -103,7 +141,7 @@ I create intuitive digital experiences that go beyond visuals—focused on usabi
 ## 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ifeanyi-vitalis-nwokolo)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge)](https://github.com/vitalis-ifeanyi)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge)](https://github.com/Vitalis-Ifeanyi)  
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&style=for-the-badge)](https://wa.me/2347016020123)  
 ✉️ vitalisifeanyiforever@gmail.com  
 📍 Lagos, Nigeria
