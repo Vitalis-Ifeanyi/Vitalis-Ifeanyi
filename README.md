@@ -56,7 +56,7 @@ I create intuitive digital experiences that go beyond visuals—focused on usabi
 - ✓ Subtle animations for an immersive UI experience  
 - ✓ Visually appealing product sections with clean layout  
 **Tech:** HTML5, CSS3, JavaScript, Google Maps API, Font Awesome  
-🔗 [Live Demo](https://donator-excluxive-fashion-world.vercel.app/) |
+🔗 [Live Demo](https://donator-excluxive-fashion-world.vercel.app/)
 
 ---
 
@@ -68,7 +68,7 @@ I create intuitive digital experiences that go beyond visuals—focused on usabi
 - ✓ Responsive layout for all screen sizes  
 - ✓ JavaScript-powered visual feedback and transitions  
 **Tech:** HTML5, CSS3, JavaScript (ES6+), DOM Manipulation  
-🔗 [Live Demo](https://color-game-woad.vercel.app/) |
+🔗 [Live Demo](https://color-game-woad.vercel.app/)
 
 ---
 
@@ -80,7 +80,7 @@ I create intuitive digital experiences that go beyond visuals—focused on usabi
 - ✓ Cloudinary image upload integration  
 - ✓ Persistent ticket state with IndexedDB  
 **Tech:** React.js, Tailwind CSS, Cloudinary, IndexedDB  
-🔗 [Live Demo](#) | 💻 [Code](#)
+🔗 [Live Demo](http://hngx-stage2-conference-ticket-generator-sand.vercel.app/)
 
 ---
 
@@ -116,7 +116,7 @@ I create intuitive digital experiences that go beyond visuals—focused on usabi
 - ✓ Internship-based agile development experience  
 - ✓ Performance-focused scalable design  
 **Tech:** Next.js, Tailwind CSS  
-🔗 [Live Demo](https://telex.im) |
+🔗 [Live Demo](https://telex.im)
 
 
 ---
@@ -124,7 +124,7 @@ I create intuitive digital experiences that go beyond visuals—focused on usabi
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vitalis-iIfeanyi&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vitalis-Ifeanyi&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitalis-Ifeanyi&layout=compact&theme=tokyonight" />
 </p>
 
