@@ -25,15 +25,15 @@ I create intuitive digital experiences that go beyond visuals—focused on usabi
 
 ## 💼 Experience
 
-### **Nupat Technologies** — *Front-End Developer / Facilitator*  
+### **Nupat Technologies** — *Front-End Developer*  
 📅 *Sept 2024 – Present*  
-- Led training in HTML/CSS
+- Led training in React Framework
 - Built responsive interfaces using React, Next.js, TailwindCSS, and TypeScript  
 - Translated Figma designs into pixel-perfect components  
 - Collaborated closely with team on projects
 
-### **Telex – HNG Internship Project**  
-📅 *Jan 2025 – Present*  
+### **Telex – Front-End Developer**  
+📅 *Jan 2025 – June 2025*  
 - Built a real-time collaboration tool using Next.js  
 - Integrated AI productivity agents  
 - Delivered scalable, performance-optimized code
@@ -48,73 +48,73 @@ I create intuitive digital experiences that go beyond visuals—focused on usabi
 
 ## 🚀 Projects
 
-### 🛍️ Donator Exclusive Fashion World  
+### 🛍️ Donator Exclusive Fashion World.
 *A polished e-commerce landing page for a high-end fashion brand. It showcases products with elegance, responsive layouts, and strong brand visuals.*  
-- ✓ Social media integration for real-time brand engagement  
-- ✓ Mobile-first, fully responsive layout  
-- ✓ Embedded Google Maps for in-store navigation  
-- ✓ Subtle animations for an immersive UI experience  
-- ✓ Visually appealing product sections with clean layout  
+- Social media integration for real-time brand engagement  
+- Mobile-first, fully responsive layout  
+- Embedded Google Maps for in-store navigation  
+- Subtle animations for an immersive UI experience  
+- Visually appealing product sections with clean layout  
 **Tech:** HTML5, CSS3, JavaScript, Google Maps API, Font Awesome  
 🔗 [Live Demo](https://donator-excluxive-fashion-world.vercel.app/)
 
 ---
 
-### 🎨 Color Guessing Game  
+### 🎨 Color Guessing Game.
 *An engaging browser-based game that sharpens users' RGB color recognition skills with instant feedback and difficulty levels.*  
-- ✓ RGB-based color guessing gameplay  
-- ✓ Live score tracking and instant feedback  
-- ✓ Dynamic difficulty levels (Easy / Hard modes)  
-- ✓ Responsive layout for all screen sizes  
-- ✓ JavaScript-powered visual feedback and transitions  
+- RGB-based color guessing gameplay  
+- Live score tracking and instant feedback  
+- Dynamic difficulty levels (Easy / Hard modes)  
+- Responsive layout for all screen sizes  
+- JavaScript-powered visual feedback and transitions  
 **Tech:** HTML5, CSS3, JavaScript (ES6+), DOM Manipulation  
 🔗 [Live Demo](https://color-game-woad.vercel.app/)
 
 ---
 
-### 🎫 Event Ticket Generator System  
+### 🎫 Event Ticket Generator System.
 *A full-stack system for conference ticket generation with PDF download, dynamic pricing, and secure QR codes.*  
-- ✓ Multi-step form for ticket selection  
-- ✓ Tiered ticket pricing logic (Free, VIP, VVIP)  
-- ✓ Auto-generated PDF tickets with embedded QR codes  
-- ✓ Cloudinary image upload integration  
-- ✓ Persistent ticket state with IndexedDB  
+- Multi-step form for ticket selection  
+- Tiered ticket pricing logic (Free, VIP, VVIP)  
+- Auto-generated PDF tickets with embedded QR codes  
+- Cloudinary image upload integration  
+- Persistent ticket state with IndexedDB  
 **Tech:** React.js, Tailwind CSS, Cloudinary, IndexedDB  
 🔗 [Live Demo](http://hngx-stage2-conference-ticket-generator-sand.vercel.app/)
 
 ---
 
-### 📑 AssuredBid  
+### 📑 AssuredBid.
 *A secure, scalable platform for creating and managing tenders. Built with a focus on clean workflows and responsive UI for real-world contract bidding.*  
-- ✓ End-to-end tender creation and management  
-- ✓ JWT-based authentication and user flows  
-- ✓ Integrated Redux for state handling  
-- ✓ Clean, responsive layouts for mobile and desktop  
-- ✓ Seamless API consumption and error handling  
+- End-to-end tender creation and management  
+- JWT-based authentication and user flows  
+- Integrated Redux for state handling  
+- Clean, responsive layouts for mobile and desktop  
+- Seamless API consumption and error handling  
 **Tech:** React.js (Hooks + Redux), Tailwind CSS  
-🔗 [Live Demo](https://managementinc.assuredbid.co.uk/) |
+🔗 [Live Demo](https://managementinc.assuredbid.co.uk/)
 
 ---
 
-### 🧼 CaptainTrack  
+### 🧼 CaptainTrack.
 *A marketing website for an on-demand multi-service platform. Designed for speed, clarity, and user conversion with React + TypeScript.*  
-- ✓ Landing pages emphasizing service benefits and trust  
-- ✓ Interactive forms for user contact and newsletter signup  
-- ✓ Download links for mobile apps  
-- ✓ Mobile-first performance optimization  
-- ✓ SEO-conscious static build using React and TypeScript  
+- Landing pages emphasizing service benefits and trust  
+- Interactive forms for user contact and newsletter signup  
+- Download links for mobile apps  
+- Mobile-first performance optimization  
+- SEO-conscious static build using React and TypeScript  
 **Tech:** React.js, TypeScript, Tailwind CSS  
-🔗 [Live Demo](https://captaintrack.ng) |
+🔗 [Live Demo](https://captaintrack.ng)
 
 ---
 
-### 💬 Telex (HNG Internship)  
+### 💬 Telex.
 *A real-time collaboration app for teams, built with Next.js during the HNG internship. Includes smart AI agents for productivity enhancements.*  
-- ✓ Real-time messaging with modern UI  
-- ✓ AI-powered assistant integration  
-- ✓ Fully responsive layouts for team workflows  
-- ✓ Internship-based agile development experience  
-- ✓ Performance-focused scalable design  
+- Real-time messaging with modern UI  
+- AI-powered assistant integration  
+- Fully responsive layouts for team workflows  
+- Internship-based agile development experience  
+- Performance-focused scalable design  
 **Tech:** Next.js, Tailwind CSS  
 🔗 [Live Demo](https://telex.im)
 
@@ -134,7 +134,7 @@ I create intuitive digital experiences that go beyond visuals—focused on usabi
 
 - 🥇 **HNG Internship 2025 Finalist**  
 - 🎓 **Frontend Bootcamp Graduate — Nupat Code Camp 2024**  
-- 📜 **Certificates in React, UI/UX, and Responsive Design**
+- 📜 **Certificates in React, and Responsive Design**
 
 ---
 
@@ -154,9 +154,4 @@ I create intuitive digital experiences that go beyond visuals—focused on usabi
 
 ---
 
-### ⚡ Fun Fact
-
-I once built an entire marketing website + form funnel system in less than a week using React and TypeScript ⚡
-
----
 
