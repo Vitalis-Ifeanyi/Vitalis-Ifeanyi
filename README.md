@@ -132,8 +132,8 @@ I create intuitive digital experiences that go beyond visuals—focused on usabi
 
 ## 🏆 Achievements
 
-- 🥇 **HNG Internship 2025 Finalist**  
-- 🎓 **Frontend Bootcamp Graduate — Nupat Code Camp 2024**  
+- 🥇 **HNG Internship HNG12 Finalist**  
+- 🎓 **Frontend Bootcamp Graduate — Nupat Code Camp**  
 - 📜 **Certificates in React, and Responsive Design**
 
 ---
