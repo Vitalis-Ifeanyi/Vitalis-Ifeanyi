@@ -150,7 +150,7 @@ I create intuitive digital experiences that go beyond visuals—focused on usabi
 
 ### ✨ Let’s Build Something Meaningful Together
 
-> Whether it’s a job, a project idea, or just a conversation—I’m always open to talk.
+> Whether it’s a job, a project idea, or just a conversation.. I’m always open to talk.
 
 ---
 
