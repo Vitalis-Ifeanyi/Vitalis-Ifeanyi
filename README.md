@@ -26,7 +26,7 @@ I create intuitive digital experiences that go beyond visuals—focused on usabi
 ## 💼 Experience
 
 ### **Nupat Technologies** — *Front-End Developer*  
-📅 *Sept 2024 – Present*  
+📅 *Sept 2023 – Present*  
 - Led training in React Framework
 - Built responsive interfaces using React, Next.js, TailwindCSS, and TypeScript  
 - Translated Figma designs into pixel-perfect components  
