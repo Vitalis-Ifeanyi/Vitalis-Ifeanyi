@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a Front-end Developer skilled in **React**, **Tailwind CSS**, **HTML**, **CSS**, **JavaScript**, **TypeScript**, **Git**, and **Next.js**. I bring together design sensitivity and technical skill to craft high-performance, responsive, and accessible web interfaces that users love.
+I’m a Front-end Developer skilled in **React**, **Tailwind CSS**, **HTML**, **CSS**, **JavaScript**, **TypeScript**, **Git**, **GitHub**, and **Next.js**. I bring together design sensitivity and technical skill to craft high-performance, responsive, and accessible web interfaces that users love.
 
 I create intuitive digital experiences that go beyond visuals—focused on usability, speed, and real-world impact.
 
@@ -84,7 +84,7 @@ I create intuitive digital experiences that go beyond visuals—focused on usabi
 
 ---
 
-### 📑 AssuredBid.
+### 📑 BidSuite by AssuredBid.
 *A secure, scalable platform for creating and managing tenders. Built with a focus on clean workflows and responsive UI for real-world contract bidding.*  
 - End-to-end tender creation and management  
 - JWT-based authentication and user flows  
