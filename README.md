@@ -11,11 +11,12 @@
 
 ## 👨‍💻 About Me
 
-I’m a Front-end Developer skilled in **React**, **Tailwind CSS**, **HTML**, **CSS**, **JavaScript**, **TypeScript**, **Git**, **GitHub**, and **Next.js**. I bring together design sensitivity and technical skill to craft high-performance, responsive, and accessible web interfaces that users love.
+I’m a Front-end Developer with strong experience in **React**, **Next.js**, **TypeScript**, **JavaScript**, **Tailwind CSS**, **HTML/CSS**, **Git**, and **GitHub**. I specialize in building performant, accessible, and maintainable user interfaces that align with business goals and enhance product quality.
 
-I create intuitive digital experiences that go beyond visuals—focused on usability, speed, and real-world impact.
+I combine design understanding with engineering best practices to deliver responsive, intuitive, and scalable web experiences. My focus is on clean architecture, consistent UI patterns, and high-quality code that supports long-term growth and team collaboration.
 
 ---
+
 
 ## 🛠️ My Tech Stack
 
