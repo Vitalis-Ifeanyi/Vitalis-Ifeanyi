@@ -49,42 +49,6 @@ I combine design understanding with engineering best practices to deliver respon
 
 ## 🚀 Projects
 
-### 🛍️ Donator Exclusive Fashion World.
-*A polished e-commerce landing page for a high-end fashion brand. It showcases products with elegance, responsive layouts, and strong brand visuals.*  
-- Social media integration for real-time brand engagement  
-- Mobile-first, fully responsive layout  
-- Embedded Google Maps for in-store navigation  
-- Subtle animations for an immersive UI experience  
-- Visually appealing product sections with clean layout  
-**Tech:** HTML5, CSS3, JavaScript, Google Maps API, Font Awesome  
-🔗 [Live Demo](https://donator-excluxive-fashion-world.vercel.app/)
-
----
-
-### 🎨 Color Guessing Game.
-*An engaging browser-based game that sharpens users' RGB color recognition skills with instant feedback and difficulty levels.*  
-- RGB-based color guessing gameplay  
-- Live score tracking and instant feedback  
-- Dynamic difficulty levels (Easy / Hard modes)  
-- Responsive layout for all screen sizes  
-- JavaScript-powered visual feedback and transitions  
-**Tech:** HTML5, CSS3, JavaScript (ES6+), DOM Manipulation  
-🔗 [Live Demo](https://color-game-woad.vercel.app/)
-
----
-
-### 🎫 Event Ticket Generator System.
-*A full-stack system for conference ticket generation with PDF download, dynamic pricing, and secure QR codes.*  
-- Multi-step form for ticket selection  
-- Tiered ticket pricing logic (Free, VIP, VVIP)  
-- Auto-generated PDF tickets with embedded QR codes  
-- Cloudinary image upload integration  
-- Persistent ticket state with IndexedDB  
-**Tech:** React.js, Tailwind CSS, Cloudinary, IndexedDB  
-🔗 [Live Demo](http://hngx-stage2-conference-ticket-generator-sand.vercel.app/)
-
----
-
 ### 📑 BidSuite by AssuredBid.
 *A secure, scalable platform for creating and managing tenders. Built with a focus on clean workflows and responsive UI for real-world contract bidding.*  
 - End-to-end tender creation and management  
@@ -119,6 +83,41 @@ I combine design understanding with engineering best practices to deliver respon
 **Tech:** Next.js, Tailwind CSS  
 🔗 [Live Demo](https://telex.im)
 
+---
+
+### 🎫 Event Ticket Generator System.
+*A full-stack system for conference ticket generation with PDF download, dynamic pricing, and secure QR codes.*  
+- Multi-step form for ticket selection  
+- Tiered ticket pricing logic (Free, VIP, VVIP)  
+- Auto-generated PDF tickets with embedded QR codes  
+- Cloudinary image upload integration  
+- Persistent ticket state with IndexedDB  
+**Tech:** React.js, Tailwind CSS, Cloudinary, IndexedDB  
+🔗 [Live Demo](http://hngx-stage2-conference-ticket-generator-sand.vercel.app/)
+
+---
+
+### 🛍️ Donator Exclusive Fashion World.
+*A polished e-commerce landing page for a high-end fashion brand. It showcases products with elegance, responsive layouts, and strong brand visuals.*  
+- Social media integration for real-time brand engagement  
+- Mobile-first, fully responsive layout  
+- Embedded Google Maps for in-store navigation  
+- Subtle animations for an immersive UI experience  
+- Visually appealing product sections with clean layout  
+**Tech:** HTML5, CSS3, JavaScript, Google Maps API, Font Awesome  
+🔗 [Live Demo](https://donator-excluxive-fashion-world.vercel.app/)
+
+---
+
+### 🎨 Color Guessing Game.
+*An engaging browser-based game that sharpens users' RGB color recognition skills with instant feedback and difficulty levels.*  
+- RGB-based color guessing gameplay  
+- Live score tracking and instant feedback  
+- Dynamic difficulty levels (Easy / Hard modes)  
+- Responsive layout for all screen sizes  
+- JavaScript-powered visual feedback and transitions  
+**Tech:** HTML5, CSS3, JavaScript (ES6+), DOM Manipulation  
+🔗 [Live Demo](https://color-game-woad.vercel.app/)
 
 ---
 
