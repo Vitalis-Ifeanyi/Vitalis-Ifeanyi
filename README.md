@@ -11,9 +11,9 @@
 
 ## 👨‍💻 About Me
 
-I’m a Front-end Developer with strong experience in **React**, **Next.js**, **TypeScript**, **JavaScript**, **Tailwind CSS**, **HTML/CSS**, **Git**, and **GitHub**. I specialize in building performant, accessible, and maintainable user interfaces that align with business goals and enhance product quality.
+I'm a Front-end Developer with strong experience in **React**, **Next.js**, **TypeScript**, **JavaScript**, **Tailwind CSS**, **HTML/CSS**, **Git**, and **GitHub**. I specialize in building performant, accessible, and scalable web experiences.
 
-I combine design understanding with engineering best practices to deliver responsive, intuitive, and scalable web experiences. My focus is on clean architecture, consistent UI patterns, and high-quality code that supports long-term growth and team collaboration.
+I combine design understanding with engineering best practices to deliver responsive, intuitive, and scalable web experiences. My focus is on clean architecture, consistent UI patterns, and high-quality user interactions.
 
 ---
 
@@ -48,6 +48,24 @@ I combine design understanding with engineering best practices to deliver respon
 ---
 
 ## 🚀 Projects
+
+### 🤖 OlukoAI - Intelligent Study Companion
+*An AI-powered learning platform that transforms documents into interactive study materials, voice lessons, and quizzes using advanced LLMs.*
+- Designed and developed a high-conversion landing page with modern aesthetics
+- Built a comprehensive administrative dashboard providing deep analytics on user behavior and platform usage
+- Ensured precision UI alignment and mobile responsiveness across all pages
+**Tech:** React.js, Next.js, OpenAI API, Tailwind CSS
+
+---
+
+### 🕌 Almukhtar Official Website
+*A comprehensive digital platform for spiritual community management, featuring a member-only portal, prayer request systems, and content management.*
+- Robust member portal with exclusive spiritual content and resources
+- Custom-built administrative dashboard for community and prayer request management
+- Server-side pagination for efficient handling of large administrative datasets
+**Tech:** React.js, Supabase, Cloudinary, Tailwind CSS
+
+---
 
 ### 📑 BidSuite by AssuredBid.
 *A secure, scalable platform for creating and managing tenders. Built with a focus on clean workflows and responsive UI for real-world contract bidding.*  
@@ -148,10 +166,8 @@ I combine design understanding with engineering best practices to deliver respon
 
 ---
 
-### ✨ Let’s Build Something Meaningful Together
+### ✨ Let's Build Something Meaningful Together
 
-> Whether it’s a job, a project idea, or just a conversation.. I’m always open to talk.
+> Whether it's a job, a project idea, or just a conversation.. I'm always open to talk.
 
 ---
-
-
