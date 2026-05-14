@@ -54,7 +54,8 @@ I combine design understanding with engineering best practices to deliver respon
 - Designed and developed a high-conversion landing page with modern aesthetics
 - Built a comprehensive administrative dashboard providing deep analytics on user behavior and platform usage
 - Ensured precision UI alignment and mobile responsiveness across all pages
-**Tech:** React.js, Next.js, OpenAI API, Tailwind CSS
+**Tech:** React.js, Next.js, OpenAI API, Tailwind CSS  
+🔗 [Live Demo](https://olukoai.com)
 
 ---
 
@@ -63,7 +64,8 @@ I combine design understanding with engineering best practices to deliver respon
 - Robust member portal with exclusive spiritual content and resources
 - Custom-built administrative dashboard for community and prayer request management
 - Server-side pagination for efficient handling of large administrative datasets
-**Tech:** React.js, Supabase, Cloudinary, Tailwind CSS
+**Tech:** React.js, Supabase, Cloudinary, Tailwind CSS  
+🔗 [Live Demo](https://almukhtarofficial.com)
 
 ---
 
