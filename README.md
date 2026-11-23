@@ -26,10 +26,10 @@ I combine design understanding with engineering best practices to deliver respon
 
 ## 💼 Experience
 
-### **Nupat Technologies** — *Front-End Developer*  
+### **Nupat Technologies** — *Front-End & Mobile App Developer*  
 📅 *Sept 2023 – Present*  
 - Led training in React Framework
-- Built responsive interfaces using React, Next.js, TailwindCSS, and TypeScript  
+- Built responsive interfaces using React, Next.js, TailwindCSS, React Native and TypeScript  
 - Translated Figma designs into pixel-perfect components  
 - Collaborated closely with team on projects
 
