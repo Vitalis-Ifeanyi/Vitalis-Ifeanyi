@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ifeanyi Vitalis</h1>
+<h1 align="center">Hi <picture>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="Waving hand" />
+</picture>, I'm Ifeanyi Vitalis</h1>
 <h3 align="center">React & React Native Front-End Developer | Passionate about building performant, accessible & scalable web apps and mobile applications.</h3>
 
 ---
@@ -11,12 +13,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a Front-end Developer with strong experience in **React**, **React Native**, **Next.js**, **TypeScript**, **JavaScript**, **Tailwind CSS**, **HTML/CSS**, **Git**, and **GitHub**. I specialize in building performant, accessible, and scalable web experiences.
+I'm a Front-end Developer with strong experience in **React**, **React Native**, **Next.js**, **TypeScript**, **JavaScript**, **Tailwind CSS**, **HTML/CSS**, **Git**, and **GitHub**. I specialize in building modern, responsive, and high-performance applications across web and mobile. My approach balances clean code, thoughtful design, and a focus on accessibility and user experience.
 
-I combine design understanding with engineering best practices to deliver responsive, intuitive, and scalable web experiences. My focus is on clean architecture, consistent UI patterns, and high-quality user interactions.
+I combine design understanding with engineering best practices to deliver responsive, intuitive, and scalable web experiences. My focus is on clean architecture, consistent UI patterns, and high-quality, maintainable code.
 
 ---
-
 
 ## 🛠️ My Tech Stack
 
